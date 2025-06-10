@@ -1,0 +1,10 @@
+{
+  "name": "ts",
+  "scripts": {
+    "dev": "ts-node"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
